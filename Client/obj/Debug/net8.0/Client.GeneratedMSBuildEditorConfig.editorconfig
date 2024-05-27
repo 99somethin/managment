@@ -1,0 +1,75 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Client
+build_property.RootNamespace = Client
+build_property.ProjectDir = D:\MAUI projects\ManagmentProject\Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\MAUI projects\ManagmentProject\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/MAUI projects/ManagmentProject/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MAUI projects/ManagmentProject/Client/Layout/AuthonticationLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEF1dGhvbnRpY2F0aW9uTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MAUI projects/ManagmentProject/Client/Pages/AccountPages/LoginPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VzXExvZ2luUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MAUI projects/ManagmentProject/Client/Pages/AccountPages/RegisterPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VzXFJlZ2lzdGVyUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MAUI projects/ManagmentProject/Client/Pages/AuthenticationPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25QYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MAUI projects/ManagmentProject/Client/Pages/ContentPages/DepartmentPages/GeneralDepartmentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VzXERlcGFydG1lbnRQYWdlc1xHZW5lcmFsRGVwYXJ0bWVudERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MAUI projects/ManagmentProject/Client/Pages/ContentPages/DepartmentPages/GeneralDepartmentPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VzXERlcGFydG1lbnRQYWdlc1xHZW5lcmFsRGVwYXJ0bWVudFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MAUI projects/ManagmentProject/Client/Pages/ContentPages/HomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VzXEhvbWVQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MAUI projects/ManagmentProject/Client/Pages/OtherPages/ProfileDropDown.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJQYWdlc1xQcm9maWxlRHJvcERvd24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MAUI projects/ManagmentProject/Client/Pages/OtherPages/TableBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJQYWdlc1xUYWJsZUJhbm5lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MAUI projects/ManagmentProject/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MAUI projects/ManagmentProject/Client/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-tmopy668it
+
+[D:/MAUI projects/ManagmentProject/Client/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9qkkwgv1yd

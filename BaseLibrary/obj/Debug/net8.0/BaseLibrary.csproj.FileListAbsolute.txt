@@ -1,0 +1,12 @@
+D:\MAUI projects\ManagmentProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+D:\MAUI projects\ManagmentProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+D:\MAUI projects\ManagmentProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+D:\MAUI projects\ManagmentProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+D:\MAUI projects\ManagmentProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAUI projects\ManagmentProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+D:\MAUI projects\ManagmentProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+D:\MAUI projects\ManagmentProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+D:\MAUI projects\ManagmentProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+D:\MAUI projects\ManagmentProject\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+D:\MAUI projects\ManagmentProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+D:\MAUI projects\ManagmentProject\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll

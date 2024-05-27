@@ -1,0 +1,64 @@
+﻿
+<SfDialog Width="250px" IsModal="true" ShowCloseIcon="true" @bind-Visible="IsVisible">
+    <DialogEvents OnOpen="OnDialogOpen"> </DialogEvents>
+
+    <DialogTemplates>
+        <Header>@Title Department</Header>
+
+        <Content>
+            <EditForm Model="GeneralDepartment" OnValidSubmit="Save">
+                <DataAnnotationsValidator />
+                <div class="card border-success">
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label class="form-label">Name</label>
+                            <InputText @bind-Value="GeneralDepartment.Name" class="form-control" />
+                        </div>
+                    </div>
+                </div>
+            </EditForm>
+        </Content>
+    </DialogTemplates>
+
+    <DialogButtons>
+        <DialogButton Content="SAVE" Type="ButtonType.Button" IsPrimary="true" OnClick="@(async () => await SaveAsync())" />
+    </DialogButtons>
+</SfDialog>
+
+@code {
+    [Parameter] public GeneralDepartment GeneralDepartment { get; set; } = new();
+
+    [Parameter] public EventCallback<GeneralDepartment> HandleSaveOperationEvent { get; set; }
+
+    private bool IsVisible { get; set; } = false;
+
+    public string Title { get; set; } = "add";
+
+    public void OnDialogOpen()
+    {
+        IsVisible = true;
+        StateHasChanged();
+    }
+
+    async void Save()
+    {
+        if (string.IsNullOrEmpty(GeneralDepartment.Name))
+        {
+            await dialogService.AlertAsync("You need to provide department name", "Alert!");
+        }
+        else
+        {
+            await HandleSaveOperationEvent.InvokeAsync(GeneralDepartment);
+        }
+    }
+
+    public void ChangeTitle(string title)
+    {
+        Title = title;
+    }
+
+    async Task SaveAsync()
+    {
+        Save();
+    }
+}

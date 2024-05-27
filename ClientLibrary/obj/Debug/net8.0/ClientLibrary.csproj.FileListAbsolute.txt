@@ -1,0 +1,15 @@
+D:\MAUI projects\ManagmentProject\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+D:\MAUI projects\ManagmentProject\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+D:\MAUI projects\ManagmentProject\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+D:\MAUI projects\ManagmentProject\ClientLibrary\bin\Debug\net8.0\BaseLibrary.dll
+D:\MAUI projects\ManagmentProject\ClientLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+D:\MAUI projects\ManagmentProject\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.AssemblyReference.cache
+D:\MAUI projects\ManagmentProject\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAUI projects\ManagmentProject\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+D:\MAUI projects\ManagmentProject\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+D:\MAUI projects\ManagmentProject\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+D:\MAUI projects\ManagmentProject\ClientLibrary\obj\Debug\net8.0\ClientLi.3D08BA28.Up2Date
+D:\MAUI projects\ManagmentProject\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+D:\MAUI projects\ManagmentProject\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+D:\MAUI projects\ManagmentProject\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+D:\MAUI projects\ManagmentProject\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll
